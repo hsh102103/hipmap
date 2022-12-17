@@ -92,8 +92,6 @@
 
 ---
 
-![img](https://lh6.googleusercontent.com/m2hvHnuO7o-CEvDboBKAfwYQ4odKnNI4tSc1v05d98bREL140aVIsI8K3XTO5ak4y5M_TTZxwGirl6Xv-Lq5i63ouuO5iyZG9pfr2qvD55OkS9ZdkBW7mcbGz3maxS565-uYUBpbIW73XKs__u3s2O4I-GpiJ6QLu1DzQu9sWqNlC55JI3WpXMwMkr8kp6ea)
-
 ### 쇼츠 및 투표 기능
 
 - 지역 상관없이 짧은 영상과 이미지를 볼 수 있음.
